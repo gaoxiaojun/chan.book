@@ -1,0 +1,2 @@
+#ta-lib # conda install -c conda-forge ta-lib
+pandas
